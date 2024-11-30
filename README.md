@@ -15,4 +15,4 @@
   Program automatycznie doda przykładowe logi i wyświetli je w konsoli.
 
 
-###![We Did It!](https://github.com/user-attachments/assets/7641bb98-264e-4986-8cb3-0b95e1b01847)
+![We Did It!](https://github.com/user-attachments/assets/7641bb98-264e-4986-8cb3-0b95e1b01847)
