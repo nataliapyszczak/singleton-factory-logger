@@ -14,4 +14,5 @@
 **Interakcja**:
   Program automatycznie doda przykładowe logi i wyświetli je w konsoli.
 
-![Screenshot from 2024-11-30 13-12-53](https://github.com/user-attachments/assets/d4573bd2-3981-4872-9878-0369f25282c8)
+
+###![We Did It!](https://github.com/user-attachments/assets/7641bb98-264e-4986-8cb3-0b95e1b01847)
