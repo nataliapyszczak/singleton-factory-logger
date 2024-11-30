@@ -13,4 +13,4 @@
   ```
 **Interakcja**:
   Program automatycznie doda przykładowe logi i wyświetli je w konsoli.
-To wszystko! Program zrealizuje logowanie przy użyciu wzorców **Singleton** i **Factory Method**.
+
